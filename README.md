@@ -12,6 +12,5 @@ This Arduino Wrapper code is based on the original TinyWireS library: https://gi
 Files Needed to test this code:
 
 TinyWireSlave.h
-
 TinyWireSlave.cpp
 
